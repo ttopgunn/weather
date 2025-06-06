@@ -12,9 +12,9 @@ Uses the Open Weather API to provide the most accurate weather information avail
 Usage
 ● Visit our website and enter your city name in the search bar.
 ● You will be presented with real-time weather updates and a dynamic background image that changes based on the weather in your city.
-● Stay informed and stay ahead of the weather with our website.
-![Screenshot 2025-06-06 195334](https://github.com/user-attachments/assets/6cd250ad-aaaf-4c65-b281-447e00a5f49c)
-![Screenshot 2025-06-06 194759](https://github.com/user-attachments/assets/508c37bd-43ef-458b-819a-eed9ef1d9bc9)
-![Screenshot 2025-06-06 194724](https://github.com/user-attachments/assets/6507c8c8-4cc4-42d2-8162-cabbdde7d92f)
-![Screenshot 2025-06-06 194703](https://github.com/user-attachments/assets/6b0a698d-7003-41a7-a3df-ce58ed2cf7fa)
-![Screenshot 2025-06-06 194559](https://github.com/user-attachments/assets/ef2953e5-6aa2-4dcb-bcdc-93711a0bfcfe)
+● Stay informed and stay ahead of the weather with our website
+![Screenshot 2025-06-06 194559](https://github.com/user-attachments/assets/986a1444-527f-4d14-b03d-e60df92f8d46)
+![Screenshot 2025-06-06 194703](https://github.com/user-attachments/assets/3834b535-ef7f-4f36-82d1-6eaff3a7ec72)
+![Screenshot 2025-06-06 194724](https://github.com/user-attachments/assets/9eaae0ff-add5-4cfb-9718-110c9148abb4)
+![Screenshot 2025-06-06 194759](https://github.com/user-attachments/assets/780dd898-e1fa-4d52-a6ea-0d088b4b4271)
+![Screenshot 2025-06-06 195334](https://github.com/user-attachments/assets/f06b2937-fe91-4940-ad32-619e950abd7d)

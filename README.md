@@ -13,3 +13,8 @@ Usage
 ● Visit our website and enter your city name in the search bar.
 ● You will be presented with real-time weather updates and a dynamic background image that changes based on the weather in your city.
 ● Stay informed and stay ahead of the weather with our website.
+![Screenshot 2025-06-06 195334](https://github.com/user-attachments/assets/6cd250ad-aaaf-4c65-b281-447e00a5f49c)
+![Screenshot 2025-06-06 194759](https://github.com/user-attachments/assets/508c37bd-43ef-458b-819a-eed9ef1d9bc9)
+![Screenshot 2025-06-06 194724](https://github.com/user-attachments/assets/6507c8c8-4cc4-42d2-8162-cabbdde7d92f)
+![Screenshot 2025-06-06 194703](https://github.com/user-attachments/assets/6b0a698d-7003-41a7-a3df-ce58ed2cf7fa)
+![Screenshot 2025-06-06 194559](https://github.com/user-attachments/assets/ef2953e5-6aa2-4dcb-bcdc-93711a0bfcfe)

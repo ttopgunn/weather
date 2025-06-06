@@ -10,3 +10,6 @@ Real-time weather updates based on your city search
 Dynamic background images that change based on the weather in your city
 Uses the Open Weather API to provide the most accurate weather information available
 Usage
+● Visit our website and enter your city name in the search bar.
+● You will be presented with real-time weather updates and a dynamic background image that changes based on the weather in your city.
+● Stay informed and stay ahead of the weather with our website.

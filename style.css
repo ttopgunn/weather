@@ -1,0 +1,164 @@
+/* Universal styling for a centered layout with background image */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    background: #fffde7; /* Soft yellow background */
+    color: #333; /* Dark gray text color */
+}
+
+/* Alternate layout section with quotes background */
+.bio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    background: #fff9c4; /* Light yellowish background */
+    color: #333;
+}
+
+/* Card Styles */
+.card, .maincard {
+    background: #fff176; /* Soft yellow card */
+    color: #333;
+    padding: 2em;
+    border-radius: 12px;
+    width: 100%;
+    max-width: 420px;
+    margin: 1em;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
+    transition: transform 0.2s ease;
+}
+
+.card:hover, .maincard:hover {
+    transform: scale(1.02);
+}
+
+.maincard {
+    padding: 3em;
+    text-align: center;
+}
+
+/* Search bar and button */
+.search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1em;
+}
+
+input.search-bar {
+    border: 2px solid #ccc;
+    padding: 0.5em 1.2em;
+    border-radius: 30px;
+    background: #fefae0; /* Changed from white (#fff) to soft cream */
+    color: #333;
+    font-family: inherit;
+    font-size: 1em;
+    width: calc(100% - 80px);
+}
+
+/* Round icon buttons */
+button {
+    margin: 0.5em;
+    border-radius: 50%;
+    border: none;
+    height: 44px;
+    width: 44px;
+    background: #fff176; /* Soft yellow */
+    color: #333;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    transition: 0.2s ease-in-out;
+}
+
+button:hover {
+    background: #fdd835; /* Slightly darker yellow */
+}
+
+/* Main & Back buttons */
+.mainbutton, .back {
+    margin: 0.3em;
+    border-radius: 8px;
+    border: none;
+    width: 100px;
+    font-size: 1em;
+    padding: 8px 0;
+    background: #fbc02d; /* Richer yellow */
+    color: #333;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+
+.mainbutton:hover, .back:hover {
+    background: #f9a825; /* Darker yellow hover */
+}
+
+a.mainbutton {
+    text-decoration: none;
+}
+
+/* Temperature display */
+h1.temp {
+    margin: 0;
+    margin-bottom: 0.4em;
+    font-size: 2.5em;
+    font-weight: 600;
+}
+
+/* Flex container */
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Weather description */
+.description {
+    text-transform: capitalize;
+    margin-left: 10px;
+    font-style: italic;
+}
+
+/* Weather loading effect */
+.weather.loading {
+    visibility: hidden;
+    max-height: 20px;
+    position: relative;
+}
+
+.weather.loading:after {
+    visibility: visible;
+    content: "Loading...";
+    color: #333;
+    position: absolute;
+    top: 0;
+    left: 20px;
+}
+
+/* Social Icons */
+.social {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.logo {
+    width: 40px;
+    border-radius: 50%;
+    padding: 6px;
+    margin: 10px 5px;
+    background: #fff176; /* Soft yellow */
+    transition: transform 0.3s ease;
+}
+
+.logo:hover {
+    transform: scale(1.1);
+    background: #fdd835;
+}
